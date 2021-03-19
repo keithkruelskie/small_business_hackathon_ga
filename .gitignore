@@ -1,0 +1,5 @@
+#ignore zip files 
+*.zip
+
+#ignore the data folder in pre_work
+/pre_work/data
